@@ -1,2 +1,2 @@
-# zekozhang-blog
-Personal blog resources bundle.
+# zekozhang blog
+## PERSONAL BLOG RESOURCES BUNDLE.
